@@ -1,0 +1,6 @@
+# external dependencies
+vendor
+.vendor-new
+
+# IDE
+.idea
